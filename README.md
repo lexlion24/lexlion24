@@ -4,7 +4,7 @@
 **lexlion24/lexlion24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 Actualmente estoy trabajando en un proyecto de aprenizaje con Spring.
-- 🌱 Aprendiendo MVC,SpringBoot,JavaScript,PHP.
+- 🌱 Aprendiendo MVC,SpringBoot,Java,JavaScript,PHP.
 - 👯 Interesado en colaborar en proyectos de código abierto relacionados con gestión de tareas.
 - 💬 Puedes preguntarme sobre lo que quieras.
 
